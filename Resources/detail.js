@@ -1,3 +1,4 @@
+// detail.js
 var DETAIL_WINDOW = {};
 (function(){
 	var win = Titanium.UI.currentWindow;
